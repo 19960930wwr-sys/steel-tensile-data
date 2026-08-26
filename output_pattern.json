@@ -1,0 +1,86 @@
+[
+  {
+    "doi/standard_number/publication number": "",
+    "steel composition": {},
+    "composition unit": "wt% or at%",
+    "steel name": "",
+    "sample name": "",
+    "distinguishing factor": "",
+    "test route/condition": "",
+    "synthesis and processing routes": [
+      {
+        "action_1(xxx)": "",
+        "condition": ""
+      },
+      {
+        "action_2(xxx)": "",
+        "condition": ""
+      },
+      {
+        "action_3(xxx)": "",
+        "condition": ""
+      }
+    ],
+    "tensile strength": {
+      "name": "",
+      "value": "",
+      "unit": "",
+      "test condition": "",
+      "sourced figure": [
+        "Figure 1",
+        "Figure x"
+      ]
+    },
+    "yield strength": {
+      "name": "",
+      "value": "",
+      "unit": "",
+      "test condition": "",
+      "sourced figure": [
+        "Figure 1",
+        "Figure x"
+      ]
+    },
+    "total elongation": {
+      "name": "",
+      "value": "",
+      "unit": "",
+      "test condition": "",
+      "sourced figure": [
+        "Figure 1",
+        "Figure x"
+      ]
+    },
+    "uniform elongation": {
+      "name": "",
+      "value": "",
+      "unit": "",
+      "test condition": "",
+      "sourced figure": [
+        "Figure 1",
+        "Figure x"
+      ]
+    },
+    "strain rate": {
+      "name": "",
+      "value": "",
+      "unit": "",
+      "test condition": "",
+      "sourced figure": [
+        "Figure 1",
+        "Figure x"
+      ]
+    },
+    "gauge length": {
+      "name": "",
+      "value": "",
+      "unit": "",
+      "test condition": "",
+      "sourced figure": [
+        "Figure 1",
+        "Figure x"
+      ]
+    }
+  }
+]
+
