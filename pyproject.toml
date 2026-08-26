@@ -1,0 +1,25 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "steel-extractor"
+version = "0.1.0"
+description = "OpenAI-compatible steel tensile-property extraction workflow"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+  "openai>=1.40.0",
+  "beautifulsoup4>=4.12.0",
+  "lxml>=5.0.0",
+  "pandas>=2.2.0",
+  "openpyxl>=3.1.0",
+  "tiktoken>=0.7.0",
+]
+
+[project.scripts]
+steel-extractor = "steel_extractor.cli:main"
+
+[tool.setuptools]
+packages = ["steel_extractor"]
+
